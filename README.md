@@ -10,8 +10,7 @@
  |  __/ (_) | (_| |___) | | | | (_| | |_) |_|
  |_|   \___/ \__,_|____/|_| |_|\__,_| .__/(_)
                                     |_|      
-                                  v2024.11.02 
-"PodSnap: Quick Podcast Summaries" 
+                                  v2024.11.02
       </pre>
     </td>
     <td>
@@ -19,6 +18,8 @@
     </td>
   </tr>
 </table>
+
+<b> PodSnap: Quick Podcast Summaries </b>
 
 </div>
 
